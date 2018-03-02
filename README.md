@@ -1,6 +1,7 @@
 # tmux-conf
 A friendly and lightweight customized tmux configuration file for tmux beginners, including basic frequently-used hotkeys.
 
+Many thanks to Ham Vocke's great article (See References).
 ## Tmux Guide
 
 ### Basic use
@@ -26,7 +27,7 @@ A friendly and lightweight customized tmux configuration file for tmux beginners
 - C-b C-<arrow key> : resize pane
 - C-b , : rename the current window
 
-### Reference:
+### References:
 - http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
 - http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 
